@@ -6,5 +6,7 @@
 All information has been taken from the official Oracle Docs website. 
 
 #### Not for sale, not for resale. Use at your own risk. 
+
+PERSONAL USE ONLY.
  
  Last edit May 2022
